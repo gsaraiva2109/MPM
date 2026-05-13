@@ -3,4 +3,4 @@ quantidade_tipos: 4
 item_1: comprimento: 30 demanda: 10
 item_2: comprimento: 45 demanda: 20
 item_3: comprimento: 60 demanda: 5
-item_3: comprimento: 5 demanda: 30
+item_4: comprimento: 5 demanda: 30
